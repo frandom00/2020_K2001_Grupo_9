@@ -1,0 +1,12 @@
+0x44: Hexadecimal
+129: Decimal
+0TAB: Invalido
+ABC: Invalido
+12A: Invalido
+032: Octal
+039: Invalido
+0XAB: Hexadecimal
+0xabcd: Hexadecimal
+0: Octal(Cero)
+0xTTTR: Invalido
+0: Octal(Cero)

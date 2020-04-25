@@ -1,0 +1,1 @@
+Numero octal,Palabra no reconocida,Numero decimal,Palabra no reconocida,Numero hexa,Palabra no reconocida,Palabra no reconocida,

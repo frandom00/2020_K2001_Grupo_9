@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586659806 source:f:\users\user\pictures\2020\ssl\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
