@@ -55,8 +55,8 @@ int main(){
     };;
     char caracterLeido;
     int caracterASCII,inicial=0,busqueda,columnaALaQueVoy;
-     archivoALeer= fopen("DocALeer.txt","r+"); //abro el archivo
-    archivoAEscribir= fopen("docAescribir.txt","wb");
+     archivoALeer= fopen("entrada.txt","r+"); //abro el archivo
+    archivoAEscribir= fopen("salida.txt","wb");
     if (!archivoALeer) //me fijo si se pudo leer
     {
         printf("no se pudo abrir el archvio\n");
